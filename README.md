@@ -38,5 +38,5 @@ Social Buzz, a social media platform emphasizing content over users, has experie
 ---
 
 ## 🔗 Portfolio Link  
-[Back to My Portfolio](https://github.com/YOUR_USERNAME/data-analyst-portfolio)  
+[Back to My Portfolio][(https://github.com/Yungssu/kennethHuyong.github.io)
 
