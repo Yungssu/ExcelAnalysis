@@ -17,19 +17,22 @@ Social Buzz, a social media platform emphasizing content over users, has experie
 
 ## 📊 Results  
 
-### Top-Performing Products  
-![Results](
+### Total Scores per Category
+![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTotalScore.png)
+-Explanation
 
-### Regional Sales Performance  
-- **North Region**: $70,000  
-- **South Region**: $50,000  
+### Total Posts per Month  
+![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzPostsPerMonth.png)
+-Explanation
 
----
+### Top 5 "popular" Category  
+![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTop5.png)
+-Explanation
+
 
 ## 🛠️ Tools Used  
 
 - **Excel**: Data Cleaning and Pivot Tables  
-- **SQL**: Data Queries and Aggregations  
 - **Markdown**: For project documentation  
 
 ---
