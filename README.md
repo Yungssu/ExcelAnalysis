@@ -18,10 +18,7 @@ Social Buzz, a social media platform emphasizing content over users, has experie
 ## 📊 Results  
 
 ### Top-Performing Products  
-| Product         | Total Sales |
-|-----------------|------------:|
-| Product A       | $50,000     |
-| Product B       | $40,000     |
+![Results](
 
 ### Regional Sales Performance  
 - **North Region**: $70,000  
