@@ -7,14 +7,13 @@ Social Buzz, a social media platform emphasizing content over users, has experie
 ## 🔍 Analysis Overview  
 
 1. **Data Overview**:
-   - The dataset includes columns like `Date`, `Product`, `Region`, `Sales`, and `Profit`.
+   - Explaining the datasets
+![Data Overview](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzERD.png)
 
 2. **Key Insights**:
-   - Identified the top-performing products by sales.
-   - Analyzed regional sales performance.
-   - Calculated profit margins for each region.
-
----
+- Determined the most popular content category by analyzing aggregate user reaction scores.  
+- Ranked the Top 5 content categories based on user engagement metrics.  
+- Identified the month with the highest number of posts, highlighting seasonal posting trends.  
 
 ## 📊 Results  
 
