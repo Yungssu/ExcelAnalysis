@@ -11,22 +11,22 @@ Social Buzz, a social media platform emphasizing content over users, has experie
 ![Data Overview](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzERD.png)
 
 2. **Key Insights**:
-- Determined the most popular content category by analyzing aggregate user reaction scores.  
-- Ranked the Top 5 content categories based on user engagement metrics.  
-- Identified the month with the highest number of posts, highlighting seasonal posting trends.  
+   - Determined the most popular content category by analyzing aggregate user reaction scores.  
+   - Ranked the Top 5 content categories based on user engagement metrics.  
+   - Identified the month with the highest number of posts, highlighting seasonal posting trends.  
 
 ## 📊 Results  
 
 ### Total Scores per Category
 ![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTotalScore.png)
--The "Animals" category won overall, and gained the most points. The remaining top-performing categories, in order, were "Science," "Healthy Eating," "Technology," and "Food." These are some of the top categories in terms of user engagement and interest, and they present categories of focus for Social Buzz in terms of activity on the platform and growth.
+   -The "Animals" category won overall, and gained the most points. The remaining top-performing categories, in order, were "Science," "Healthy Eating," "Technology," and "Food." These are some of the top categories in terms of user engagement and interest, and they present categories of focus for Social Buzz in terms of activity on the platform and growth.
 
 ### Top 5 "popular" Category  
 ![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTop5.png)
--Among the five leading performance categories, two related directly to food were “Healthy Eating” and “Food.” This also shows a significant user interest in food and nutrition content.
+   -Among the five leading performance categories, two related directly to food were “Healthy Eating” and “Food.” This also shows a significant user interest in food and nutrition content.
 ### Total Posts per Month  
 ![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzPostsPerMonth.png)
--Explanation
+   -Explanation
 
 ## 💡 Recommendations
 
