@@ -7,10 +7,20 @@ Social Buzz, a social media platform emphasizing content over users, has experie
 ## 🔍 Analysis Overview  
 
 1. **Data Overview**:
-   - Explaining the datasets
 ![Data Overview](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzERD.png)
+   - This Entity-Relationship Diagram (ERD) represents the data structure for analyzing user reactions on Social Buzz.
+      - Content: Stores details about the posts, including the content type, category, and URL.
+      - Reactions: Tracks user interactions with content, recording the type of reaction and timestamp.
+      - ReactionTypes: Defines reaction types, their sentiment, and associated scores.
+   - This design links user reactions to specific content, enabling insights into user preferences and engagement patterns. 
 
-2. **Key Insights**:
+- **Content**: Stores details about the posts, including the content type, category, and URL.  
+- **Reactions**: Tracks user interactions with content, recording the type of reaction and timestamp.  
+- **ReactionTypes**: Defines reaction types, their sentiment, and associated scores.  
+
+This design links user reactions to specific content, enabling insights into user preferences and engagement patterns.
+
+3. **Key Insights**:
    - Determined the most popular content category by analyzing aggregate user reaction scores.  
    - Ranked the Top 5 content categories based on user engagement metrics.  
    - Identified the month with the highest number of posts, highlighting seasonal posting trends.  
@@ -19,14 +29,14 @@ Social Buzz, a social media platform emphasizing content over users, has experie
 
 ### Total Scores per Category
 ![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTotalScore.png)
-   -The "Animals" category won overall, and gained the most points. The remaining top-performing categories, in order, were "Science," "Healthy Eating," "Technology," and "Food." These are some of the top categories in terms of user engagement and interest, and they present categories of focus for Social Buzz in terms of activity on the platform and growth.
+   - The "Animals" category won overall, and gained the most points. The remaining top-performing categories, in order, were "Science," "Healthy Eating," "Technology," and "Food." These are some of the top categories in terms of user engagement and interest, and they present categories of focus for Social Buzz in terms of activity on the platform and growth.
 
 ### Top 5 "popular" Category  
 ![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTop5.png)
-   -Among the five leading performance categories, two related directly to food were “Healthy Eating” and “Food.” This also shows a significant user interest in food and nutrition content.
+   - Among the five leading performance categories, two related directly to food were “Healthy Eating” and “Food.” This also shows a significant user interest in food and nutrition content.
 ### Total Posts per Month  
 ![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzPostsPerMonth.png)
-   -Explanation
+   - This graph illustrates the monthly posting trends on Social Buzz, showing fluctuations in the number of posts throughout the year. The data reveals peak activity in January, May, and July, with dips in February and October. These trends highlight opportunities for aligning content campaigns with months of increased posting activity.
 
 ## 💡 Recommendations
 
