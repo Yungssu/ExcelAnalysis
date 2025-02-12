@@ -67,5 +67,4 @@ Based on the insights gathered from analyzing Social Buzz's data:
 ---
 
 ## 🔗 Portfolio Link  
-[Back to My Portfolio][(https://github.com/Yungssu/kennethHuyong.github.io)
-
+- [Back to My Portfolio][(https://github.com/Yungssu/kennethHuyong.github.io)
