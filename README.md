@@ -20,7 +20,7 @@ Analyze social media conversations to extract trends, engagement insights, and s
 - Interactive Excel dashboard  
 - Key metrics breakdown with slicers and charts  
 
-📂 [View the full project](https://github.com/Yungssu/ExcelDashboard/tree/main/SocialBuzzAnalytics)
+📂 [View the full project](https://github.com/Yungssu/ExcelAnalysis/tree/main/Social%20Buzz%20Analysis)
 
 ---
 
