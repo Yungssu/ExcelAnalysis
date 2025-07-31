@@ -39,7 +39,7 @@ Developed a healthcare analytics dashboard using hospital encounter data from Ma
 - Readmission flag logic using Excel formulas  
 - Time-based analysis with pivot tables, timelines, and charts  
 
-📂 [View the full project](https://github.com/Yungssu/ExcelDashboard/tree/main/MGHHealthcareDashboard)
+📂 [View the full project](https://github.com/Yungssu/ExcelAnalysis/tree/main/MGH%20Analysis)
 
 ---
 
