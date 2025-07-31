@@ -24,7 +24,7 @@ Analyze social media conversations to extract trends, engagement insights, and s
 
 ---
 
-## 🏥 [MGH Healthcare Dashboard Project](https://github.com/Yungssu/ExcelDashboard/tree/main/MGHHealthcareDashboard)
+## 🏥 [MGH Healthcare Dashboard Project](https://github.com/Yungssu/ExcelAnalysis/tree/main/MGH%20Analysis)
 
 ### 🧠 Overview
 Developed a healthcare analytics dashboard using hospital encounter data from Massachusetts General Hospital to track patient behavior, cost, and readmissions.
