@@ -44,7 +44,7 @@ Designed entirely in **Microsoft Excel**, this project showcases the power of we
 - ✅ Timeline slicers for monthly and quarterly analysis  
 - ✅ Visuals: bar charts, line charts, and KPI cards
 
-📂 [View the Project Folder](https://github.com/Yungssu/ExcelDashboard/tree/main/MGHHealthcareDashboard)
+📂 [View the Project Folder](https://github.com/Yungssu/ExcelAnalysis/blob/main/MGH%20Analysis/MGHDashborad.md)
 
 ---
 
