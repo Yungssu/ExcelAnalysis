@@ -7,7 +7,7 @@ Social Buzz, a social media platform emphasizing content over users, has experie
 ## 🔍 Analysis Overview  
 
 1. **Data Overview**:
-![Data Overview](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzERD.png)
+![Data Overview](https://github.com/Yungssu/ExcelAnalysis/blob/main/Social%20Buzz%20Analysis/SocialBuzzERD%20(1).png)
    - This Entity-Relationship Diagram (ERD) represents the data structure for analyzing user reactions on Social Buzz.
       - Content: Stores details about the posts, including the content type, category, and URL.
       - Reactions: Tracks user interactions with content, recording the type of reaction and timestamp.
@@ -28,14 +28,14 @@ This design links user reactions to specific content, enabling insights into use
 ## 📊 Results  
 
 ### Total Scores per Category
-![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTotalScore.png)
+![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/Social%20Buzz%20Analysis/SocialBuzzTotalScore.png)
    - The "Animals" category won overall, and gained the most points. The remaining top-performing categories, in order, were "Science," "Healthy Eating," "Technology," and "Food." These are some of the top categories in terms of user engagement and interest, and they present categories of focus for Social Buzz in terms of activity on the platform and growth.
 
 ### Top 5 "popular" Category  
-![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTop5.png)
+![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/Social%20Buzz%20Analysis/SocialBuzzTop5.png)
    - Among the five leading performance categories, two related directly to food were “Healthy Eating” and “Food.” This also shows a significant user interest in food and nutrition content.
 ### Total Posts per Month  
-![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzPostsPerMonth.png)
+![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/Social%20Buzz%20Analysis/SocialBuzzPostsPerMonth.png)
    - This graph illustrates the monthly posting trends on Social Buzz, showing fluctuations in the number of posts throughout the year. The data reveals peak activity in January, May, and July, with dips in February and October. These trends highlight opportunities for aligning content campaigns with months of increased posting activity.
 
 ## 💡 Recommendations
