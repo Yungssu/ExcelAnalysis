@@ -5,7 +5,7 @@ This repository features interactive Excel dashboards designed to turn raw datas
 
 ---
 
-## 📢 [Social Buzz Analytics Project](https://github.com/Yungssu/ExcelDashboard/tree/main/SocialBuzzAnalytics)
+## 📢 [Social Buzz Analytics Project](https://github.com/Yungssu/ExcelAnalysis/tree/main/Social%20Buzz%20Analysis)
 
 ### 🧠 Overview
 Analyze social media conversations to extract trends, engagement insights, and sentiment dynamics using Excel's data tools and visualization capabilities.
