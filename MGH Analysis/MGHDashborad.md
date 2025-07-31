@@ -8,7 +8,7 @@ This project analyzes patient encounter data from **Massachusetts General Hospit
 
 ![Dashboard Screenshot](https://github.com/Yungssu/ExcelAnalysis/blob/main/MGH%20Analysis/MGHDashboard.png)
 
-🔗 **[Click here to download/view the Excel Dashboard](INSERT-LINK-TO-YOUR-EXCEL-FILE-HERE)**
+🔗 **[Click here to download/view the Excel Dashboard](https://github.com/Yungssu/ExcelAnalysis/blob/main/MGH%20Analysis/MGHAnalysis.xlsx)**
 
 ---
 
