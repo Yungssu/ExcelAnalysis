@@ -36,6 +36,6 @@ Built entirely in Excel, the dashboard helps workforce teams monitor operational
 **Kenneth Huyong**  
 📧 [kennethwhoyong@gmail.com](mailto:kennethwhoyong@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/kenneth-huyong-b255352b4/)  
-🌐 [Portfolio](https://github.com/Yungssu/kennethHuyong.github.io)
+🌐 [Portfolio](https://github.com/Yungssu/ExcelAnalysis/tree/main)
 
 ---
