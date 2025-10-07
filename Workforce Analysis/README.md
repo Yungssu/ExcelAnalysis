@@ -74,14 +74,7 @@ This project focuses on **monitoring and optimizing call center performance** us
 - Built with clean, corporate styling for executive use.  
 - Includes interactive slicers and timeline for hourly and queue-based filtering.  
 
-**Color Palette**  
-| Purpose | Color | Hex Code |
-|----------|--------|-----------|
-| Background | Light Gray | `#F5F5F5` |
-| Primary | Steel Blue | `#4682B4` |
-| Secondary | Teal | `#008080` |
-| Positive (SLA Met) | Green | `#2E8B57` |
-| Negative (SLA Missed / Abandonment) | Red | `#B22222` |
+
 
 ---
 
