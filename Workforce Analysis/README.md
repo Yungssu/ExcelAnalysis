@@ -20,7 +20,7 @@ This project focuses on **monitoring and optimizing call center performance** us
 
 ## 🗂️ Dataset
 
-- Source file: `https://github.com/Yungssu/ExcelAnalysis/blob/main/Workforce%20Analysis/workforce_data.csv`  
+- Source file: (https://github.com/Yungssu/ExcelAnalysis/blob/main/Workforce%20Analysis/workforce_data.csv)
 - Columns include:
   - `Timestamp`, `Queue`, `Calls_Offered`, `Calls_Answered`, `Calls_Abandoned`
   - `SLA_Actual_pct_fixed`, `SLA_Target_pct_fixed`
@@ -69,14 +69,20 @@ This project focuses on **monitoring and optimizing call center performance** us
 
 ---
 
-## 🎨 Dashboard Design
+## 🙋‍♂️ About Me
 
-- Built with clean, corporate styling for executive use.  
-- Includes interactive slicers and timeline for hourly and queue-based filtering.  
+I'm **Kenneth Huyong**, an aspiring Data Analyst passionate about turning operational data into actionable workforce insights. This project highlights how Excel can be used to track, visualize, and optimize performance metrics in real-world call center environments.
 
-
+📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/kennethhuyong)
+- [GitHub](https://github.com/Yungssu)
 
 ---
 
-## 📂 Folder Structure
+## 🏁 Final Thoughts
+
+The dashboard provides an executive view of performance efficiency, helping identify bottlenecks and staffing gaps.  
+It simulates how analysts support workforce teams in achieving operational targets and improving customer experience.
+
+🚀 More Excel-based analytics projects coming soon!
 
