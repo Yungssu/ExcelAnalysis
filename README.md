@@ -58,7 +58,7 @@ Built an Excel-based **Call Center Workforce Management Dashboard** to monitor s
 - Interactive dashboard with slicers and timeline controls  
 - Professional color palette and layout for executive reporting  
 
-📂 [View the full project](https://github.com/Yungssu/ExcelAnalysis/tree/main/Workforce%20Management)
+📂 [View the full project](https://github.com/Yungssu/ExcelAnalysis/blob/main/Workforce%20Analysis/README.md)
 
 ---
 
