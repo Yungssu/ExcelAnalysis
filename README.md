@@ -42,7 +42,7 @@ Developed a healthcare analytics dashboard using hospital encounter data from Ma
 📂 [View the full project](https://github.com/Yungssu/ExcelAnalysis/tree/main/MGH%20Analysis)
 
 ---
-## 🎧 [Workforce Management Dashboard Project](https://github.com/Yungssu/ExcelAnalysis/tree/main/Workforce%20Management)
+## 🎧 [Workforce Management Dashboard Project](https://github.com/Yungssu/ExcelAnalysis/blob/main/Workforce%20Analysis/README.md)
 
 ### 🧠 Overview  
 Built an Excel-based **Call Center Workforce Management Dashboard** to monitor service performance, agent utilization, and call efficiency across multiple queues.
