@@ -69,15 +69,6 @@ This project focuses on **monitoring and optimizing call center performance** us
 
 ---
 
-## 🙋‍♂️ About Me
-
-I'm **Kenneth Huyong**, an aspiring Data Analyst passionate about turning operational data into actionable workforce insights. This project highlights how Excel can be used to track, visualize, and optimize performance metrics in real-world call center environments.
-
-📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/kennethhuyong)
-- [GitHub](https://github.com/Yungssu)
-
----
 
 ## 🏁 Final Thoughts
 
