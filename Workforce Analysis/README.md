@@ -32,6 +32,7 @@ This project focuses on **monitoring and optimizing call center performance** us
   - **Occupancy**
   - **AHT** and **ASA**
   - **Service Level Achievement**
+    
 📂 [View the Project Folder](https://github.com/Yungssu/ExcelAnalysis/blob/main/Workforce%20Analysis/WorkforceAnalysis.md)
 
 ---
