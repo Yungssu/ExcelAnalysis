@@ -53,7 +53,7 @@ Built an Excel-based **Call Center Workforce Management Dashboard** to monitor s
 - **Agent Efficiency Metrics**: Monitored Adherence, Occupancy, and Average Handling Time to assess staffing alignment. 👥  
 
 ### 📁 What’s Inside  
-- Cleaned workforce dataset (`workforce_data.csv`)  
+- Cleaned workforce dataset  
 - Power Pivot measures for KPI calculations  
 - Interactive dashboard with slicers and timeline controls  
 - Professional color palette and layout for executive reporting  
